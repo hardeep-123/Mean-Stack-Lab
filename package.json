@@ -1,0 +1,26 @@
+{
+  "name": "hardeep",
+  "version": "1.0.0",
+  "description": "this is hardeep's laptop",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "how's",
+    "you",
+    "?",
+    "i'm",
+    "fine",
+    "you",
+    "say",
+    "how's",
+    "you",
+    "?"
+  ],
+  "author": "hardeep",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
